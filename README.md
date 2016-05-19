@@ -1,4 +1,4 @@
 # hello-world
 
-hi this is Nikil. 
-Ventured into github just now.
+Hi, this is Nikil. 
+Another Novice.
